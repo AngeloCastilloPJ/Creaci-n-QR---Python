@@ -1,4 +1,4 @@
-CREATION OF QR FOR ANY PAGE
+## CREATION OF QR FOR ANY PAGE
 Create QR for any page by copying the Python code into your virtual environment, be it Pycharm, Visual or any other.
 
 1. You must previously install QRCODE -> pip install qrcode
@@ -12,7 +12,7 @@ img = qr.make("COLOCAR LA WEB AQUÍ")
 img.save("wlinkdn_angelocp.png")
 
 
-/Creation of QR with background color and different QR:
+# Creation of QR with background color and different QR:
 
 import qrcode
 from PIL import Image
