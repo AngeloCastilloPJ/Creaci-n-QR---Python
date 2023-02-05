@@ -12,7 +12,7 @@ img = qr.make("COLOCAR LA WEB AQUÍ")
 img.save("wlinkdn_angelocp.png")
 
 
-# Creation of QR with background color and different QR:
+## Creation of QR with background color and different QR:
 
 import qrcode
 from PIL import Image
